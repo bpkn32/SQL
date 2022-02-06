@@ -1,2 +1,2 @@
 # SQL
-patika.dev ödev-1
+A repository for the homeworks given in patika.dev SQL path.
